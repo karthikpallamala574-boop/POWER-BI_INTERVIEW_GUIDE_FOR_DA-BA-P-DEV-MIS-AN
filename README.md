@@ -1,5 +1,4 @@
 # POWER-BI_INTERVIEW_GUIDE_FOR_DA-BA-P-DEV-MIS-AN
-# Power BI Interview Guide
 
 A free Power BI interview guide in simple English. Every topic has a definition, a simple explanation, an example, step-by-step clicks in Power BI, a ready interview answer, follow-up questions and a common mistake.
 
